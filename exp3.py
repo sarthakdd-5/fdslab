@@ -45,7 +45,7 @@ print(multi_stats)
 # ACTIVITY 2: Manual Computation
 # (WITHOUT IN-BUILT FUNCTIONS)
 print("\n==================================================")
-print("ACTIVITY 2: Procedure Without In-Built Functions")
+print("ACTIVITY 2: Procedure Without In-Built Functions")  
 print("==================================================")
 
 
